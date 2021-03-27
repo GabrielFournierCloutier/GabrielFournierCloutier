@@ -3,7 +3,6 @@
 - 🎓 J'étudie actuellement l'ingénierie logiciel à l'[École de technologie supérieure](https://www.etsmtl.ca/)
 - ❤ J'adore résoudre des problèmes compliqués et créer des choses
 - 📫 Comment me contacter gabriel.fournier-cloutier.1@etsmtl.net
-- [📄 Plus d'informations](https://eportfolio.etsmtl.ca/Portfolio/Clef/nRsCrHP1ZZ3hTqbZ4Knf)
 
 ------------------
 
@@ -12,4 +11,3 @@
 - 🎓 I'm currenlty studying software engineering at [École de technologie supérieure](https://www.etsmtl.ca/)
 - ❤ I love solving complex problems and creating stuff
 - 📫 How to reach me gabriel.fournier-cloutier.1@etsmtl.net
-- [📄 More info](https://eportfolio.etsmtl.ca/Portfolio/Clef/nRsCrHP1ZZ3hTqbZ4Knf)
