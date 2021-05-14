@@ -8,6 +8,6 @@
 
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 
-- 🎓 I'm currenlty studying software engineering at [École de technologie supérieure](https://www.etsmtl.ca/)
+- 🎓 I'm currently studying software engineering at [École de technologie supérieure](https://www.etsmtl.ca/)
 - ❤ I love solving complex problems and bring my ideas to life
 - 📫 How to reach me gabriel.fournier-cloutier.1@etsmtl.net
